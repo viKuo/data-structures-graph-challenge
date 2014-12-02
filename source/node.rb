@@ -1,3 +1,3 @@
-def Node
+class Node
 
 end
