@@ -1,6 +1,6 @@
 # Graphs
 
-<img src='assets/directed-graph.png' style="float:right;margin-left:20px">
+<img src='assets/directed-graph.png' align='right'>
 
 Graphs come to us from [Graph Theory](http://en.wikipedia.org/wiki/Graph_theory) in mathematics. A Graph is made up of a set of _Nodes_. Links between Nodes are known as _edges_. Nodes can have many edges. There is no concept of hierarchy in a graph, it's simply a data structure that allows us to maintain a web of interconnected things.
 
